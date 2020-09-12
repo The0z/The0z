@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+---
+
+[![Austin's github stats](https://github-readme-stats.vercel.app/api?username=The0z)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **The0z/The0z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
