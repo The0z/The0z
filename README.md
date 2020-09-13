@@ -10,7 +10,7 @@ Recently graduated Bachelor of Science in Electrical Engineering with a desire t
 
 ---
 ## Connect with me:
-[<img align="left" alt="mraustingallagher@gmail.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+[<img align="left" alt="Email: mraustingallagher@gmail.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 
 [<img align="left" alt="Austin Gallagher | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
@@ -59,7 +59,7 @@ Recently graduated Bachelor of Science in Electrical Engineering with a desire t
 **The0z/The0z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-[linkedin]: https://linkedin.com/in/austingallagher-ee
-[email]: (mailto:mraustingallagher@gmail.com?subject=Hello!)
+[linkedin] https://linkedin.com/in/austingallagher-ee
+[email] (mailto:mraustingallagher@gmail.com?subject=Hello!)
 
 
