@@ -60,7 +60,7 @@ Recently graduated Bachelor of Science in Electrical Engineering with a desire t
 -->
 
 [linkedin]: https://linkedin.com/in/austingallagher-ee
-[email]: mraustingallagher@gmail.com
+[email]: (mailto:lunde@adobe.com?subject=Hello!)
 
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
