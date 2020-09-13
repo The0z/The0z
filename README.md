@@ -1,4 +1,4 @@
-### Greetings and Welcome to Austin's GitHub Account The0z
+### Greetings and welcome to Austin's GitHub Account The0z
 
 Recently graduated Bachelor of Science in Electrical Engineering with a desire to be part of the technology industry in a software role.
 
@@ -34,6 +34,7 @@ Recently graduated Bachelor of Science in Electrical Engineering with a desire t
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
+
 ---
 
 ## Stats for Nerds:
