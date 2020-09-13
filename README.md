@@ -60,6 +60,6 @@ Recently graduated Bachelor of Science in Electrical Engineering with a desire t
 -->
 
 [linkedin]: https://linkedin.com/in/austingallagher-ee
-[email]: (mailto:mraustingallagher@gmail.com)
+[email]: mailto:mraustingallagher@gmail.com
 
 
