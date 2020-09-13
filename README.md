@@ -1,6 +1,7 @@
 ### Greetings and welcome to Austin's GitHub Account The0z
 
 Recently graduated Bachelor of Science in Electrical Engineering with a desire to be part of the technology industry in a software role.
+Currently I am motivated to continually make this GitHub account larger and larger.
 
 ### Current Milestones:
 - I'm currently working on improving my Java, Android Studio and Python Skills. 
