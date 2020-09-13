@@ -2,9 +2,19 @@
 
 ---
 
-[![Austin's github stats](https://github-readme-stats.vercel.app/api?username=The0z&hide=stars,issues,contribs&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=The0z)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=The0z&hide=stars,issues,contribs&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The0z&layout=compact&langs_count=3" />
+</a>
+ 
+ ---
+
+[![Austin's github stats](https://github-readme-stats.vercel.app/api?username=The0z&hide=stars,issues,contribs&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=The0z&layout=compact&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
