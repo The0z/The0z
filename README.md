@@ -59,7 +59,7 @@ Recently graduated Bachelor of Science in Electrical Engineering with a desire t
 **The0z/The0z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-[linkedin] https://linkedin.com/in/austingallagher-ee
-[email] (mailto:mraustingallagher@gmail.com?subject=Hello!)
+[linkedin]: https://linkedin.com/in/austingallagher-ee
+[email]: (mailto:mraustingallagher@gmail.com?subject=Hello!)
 
 
