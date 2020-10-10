@@ -6,8 +6,11 @@ Currently I am motivated to continually make this GitHub account larger and larg
 ### Current Milestones:
 - I'm currently working on improving my Java, Android Studio and Python Skills. 
 - I'm currently trying to learn everything possible about software engineering and coding.
-- I'm looking for mentorship or guidance on how to obtain the software engineer title with an electrical engineering degree!
-- Fixing bugs/errors i've made! If you see any let me know!
+
+## Recent Accomplishments:
+- Gold - 30 days of Code - HackerRank
+- Gold - 10 days of JavaScript - HackerRank
+- Bronze 2 stars - Java - HackerRank
 
 ---
 ## Connect with me:
