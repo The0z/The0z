@@ -11,6 +11,8 @@ Currently I am motivated to continually make this GitHub account larger and larg
 - Gold - 30 days of Code - HackerRank
 - Gold - 10 days of JavaScript - HackerRank
 - Bronze 2 stars - Java - HackerRank
+- Bronze 2 stars - Interview Practice - HackerRank
+- Bronze 2 stars - Problem Solving - HackerRank
 
 ---
 ## Connect with me:
