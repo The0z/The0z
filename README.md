@@ -4,15 +4,15 @@ Recently graduated Bachelor of Science in Electrical Engineering with a desire t
 Currently I am motivated to continually make this GitHub account larger and larger.
 
 ### Current Milestones:
-- I'm currently working on improving my Java, Android Studio and Python Skills. 
-- I'm currently trying to learn everything possible about software engineering and coding.
+- Get a web server running on Nginx (Almost done!) 
+- Create a Sudoku Python Solver and Game (Solver Almost Done)
 
 ## Recent Accomplishments:
 - Gold - 30 days of Code - HackerRank
 - Gold - 10 days of JavaScript - HackerRank
 - Bronze 2 stars - Java - HackerRank
 - Bronze 2 stars - Interview Practice - HackerRank
-- Bronze 2 stars - Problem Solving - HackerRank
+- Basic Java Certificate - HackerRank
 
 ---
 ## Connect with me:
