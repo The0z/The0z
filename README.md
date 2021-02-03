@@ -1,11 +1,11 @@
 ### Greetings and welcome to Austin's GitHub Account The0z
 
-Recently graduated Bachelor of Science in Electrical Engineering with a desire to be part of the technology industry in a software role.
+Bachelor of Science in Electrical Engineering with a desire to be part of the technology industry in a software  or electrical role.
 Currently I am motivated to continually make this GitHub account larger and larger.
 
 ### Current Milestones:
-- Get a web server running on Nginx (Almost done!) 
-- Create a Sudoku Python Solver and Game (Solver Almost Done)
+- Get a web server running on Nginx (DONE) - now making a functional quiz site using SQL, PHP, and Nginx. 
+- Create a Sudoku Python Solver and Game (Solver Done)
 
 ## Recent Accomplishments:
 - Gold - 30 days of Code - HackerRank
