@@ -8,6 +8,7 @@ Currently I am motivated to continually make this GitHub account larger and larg
 - Create a Sudoku Python Solver and Game (Solver Done)
 
 ## Recent Accomplishments:
+- Quiz Webserver DONE!
 - Gold - 30 days of Code - HackerRank
 - Gold - 10 days of JavaScript - HackerRank
 - Bronze 2 stars - Java - HackerRank
