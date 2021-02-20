@@ -51,6 +51,8 @@ Currently I am motivated to continually make this GitHub account larger and larg
 
 ---
 ## Pinned Repositories:
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=The0z&repo=QuizWebServer)](https://github.com/The0z/QuizWebServer)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=The0z&repo=BudgetProgram)](https://github.com/The0z/BudgetProgram)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=The0z&repo=BasketBallCourtCounter)](https://github.com/The0z/BasketBallCourtCounter)
