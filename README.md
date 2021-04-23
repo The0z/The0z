@@ -9,11 +9,8 @@ Currently I am motivated to continually make this GitHub account larger and larg
 
 ## Recent Accomplishments:
 - Quiz Webserver DONE!
-- Gold - 30 days of Code - HackerRank
-- Gold - 10 days of JavaScript - HackerRank
-- Bronze 2 stars - Java - HackerRank
-- Bronze 2 stars - Interview Practice - HackerRank
-- Basic Java Certificate - HackerRank
+- Javascript and JS Data Structures Certification (300 hour course) - FreeCodeCamp
+- Tribute Page for Responsive Web Design Course
 
 ---
 ## Connect with me:
