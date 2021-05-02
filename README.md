@@ -16,7 +16,7 @@ Currently I am motivated to continually make this GitHub account larger and larg
 ## Connect with me:
 [<img align="left" alt="Email: mraustingallagher@gmail.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 
-[<img align="left" alt="Austin Gallagher | LinkedIn" width="22px" src="https://raw.githubusercontent.com/The0z/imgFolder/main/Linkedin-Logo.png" />][linkedin]
+[<img align="left" alt="Austin Gallagher | LinkedIn" height="30px" src="https://raw.githubusercontent.com/The0z/imgFolder/main/Linkedin-Logo.png" />][linkedin]
 
 <br />
 
