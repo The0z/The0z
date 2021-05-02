@@ -38,6 +38,13 @@ Currently I am motivated to continually make this GitHub account larger and larg
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
+<img align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/The0z/imgFolder/main/JS.png" />
+
+<img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/The0z/imgFolder/main/1200px-HTML5_logo_and_wordmark.svg.png" />
+
+<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/The0z/imgFolder/main/CSS3_logo_and_wordmark.svg.png" />
+
+
 <br />
 
 ---
