@@ -19,6 +19,7 @@ Currently I am motivated to continually make this GitHub account larger and larg
 [<img align="left" alt="Austin Gallagher | LinkedIn" height="50px" src="https://raw.githubusercontent.com/The0z/imgFolder/main/Linkedin-Logo.png" />][linkedin]
 
 <br />
+<br />
 
 ---
 
