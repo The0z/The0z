@@ -56,7 +56,7 @@ Currently I am motivated to continually make this GitHub account larger and larg
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=The0z&repo=SurveyForm2021)](https://github.com/The0z/SurveyForm2021)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=The0z&repo=TributePage2021](https://github.com/The0z/TributePage2021)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=The0z&repo=TributePage2021)](https://github.com/The0z/TributePage2021)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=The0z&repo=JustJavaCoffeeApp)](https://github.com/The0z/JustJavaCoffeeApp)
 
