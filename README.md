@@ -50,16 +50,15 @@ Currently I am motivated to continually make this GitHub account larger and larg
 ## Pinned Repositories:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=The0z&repo=QuizWebServer)](https://github.com/The0z/QuizWebServer)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=The0z&repo=BudgetProgram)](https://github.com/The0z/BudgetProgram)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=The0z&repo=TechnicalDoc2021)](https://github.com/The0z/TechnicalDoc2021)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=The0z&repo=BasketBallCourtCounter)](https://github.com/The0z/BasketBallCourtCounter)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=The0z&repo=ProductLandingPage2021)](https://github.com/The0z/ProductLandingPage2021)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=The0z&repo=ArithmeticFormatter)](https://github.com/The0z/ArithmeticFormatter)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=The0z&repo=SurveyForm2021)](https://github.com/The0z/SurveyForm2021)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=The0z&repo=TributePage2021](https://github.com/The0z/TributePage2021)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=The0z&repo=JustJavaCoffeeApp)](https://github.com/The0z/JustJavaCoffeeApp)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=The0z&repo=TimeCalculator)](https://github.com/The0z/TimeCalculator)
-
 
 <!--
 **The0z/The0z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
