@@ -8,7 +8,7 @@ I have recently completed a personal portfolio which can be seen here: https://c
 ## Recent Accomplishments:
 - Quiz Webserver DONE!
 - Javascript and JS Data Structures Certification (300 hour course) - FreeCodeCamp
-- Tribute Page for Responsive Web Design Course
+- Responsive Web Design Course (300 hour course) - FreeCodeCamp
 
 ---
 ## Connect with me:
