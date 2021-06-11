@@ -3,9 +3,7 @@
 Bachelor of Science in Electrical Engineering with a desire to be part of the technology industry in a software  or electrical role.
 Currently I am motivated to continually make this GitHub account larger and larger.
 
-### Current Milestones:
-- Get a web server running on Nginx (DONE) - now making a functional quiz site using SQL, PHP, and Nginx. 
-- Create a Sudoku Python Solver and Game (Solver Done)
+I have recently completed a personal portfolio which can be seen here: https://codepen.io/the0z/full/jOBEvXX
 
 ## Recent Accomplishments:
 - Quiz Webserver DONE!
@@ -47,6 +45,12 @@ Currently I am motivated to continually make this GitHub account larger and larg
 
 <br />
 
+
+## Pinned Repositories:
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=The0z&repo=QuizWebServer)](https://github.com/The0z/QuizWebServer)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=The0z&repo=PersonalPortfolio2021)](https://github.com/The0z/PersonalPortfolio2021)
+
 ---
 
 ## Stats for Nerds:
@@ -55,18 +59,7 @@ Currently I am motivated to continually make this GitHub account larger and larg
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=The0z&layout=compact&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-## Pinned Repositories:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=The0z&repo=QuizWebServer)](https://github.com/The0z/QuizWebServer)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=The0z&repo=TechnicalDoc2021)](https://github.com/The0z/TechnicalDoc2021)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=The0z&repo=ProductLandingPage2021)](https://github.com/The0z/ProductLandingPage2021)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=The0z&repo=SurveyForm2021)](https://github.com/The0z/SurveyForm2021)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=The0z&repo=TributePage2021)](https://github.com/The0z/TributePage2021)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=The0z&repo=JustJavaCoffeeApp)](https://github.com/The0z/JustJavaCoffeeApp)
 
 <!--
 **The0z/The0z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
